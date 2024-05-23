@@ -1,0 +1,14 @@
+[
+  {
+    "objem": 500,
+    "barva": "modrá",
+    "cena": 159,
+    "dph": 20
+  },
+  {
+    "objem": 750,
+    "barva": "zelená",
+    "cena": 259,
+    "dph": 30
+  }
+]
